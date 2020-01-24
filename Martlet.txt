@@ -41,6 +41,6 @@ Selling without prior written consent is prohibited.
 Commercial copying, hiring, rent (lease) and lending
 (without prior written consent) are prohibited.
 Obtain permission before redistributing.
-In all cases, this notice must remain intact and
-an URL git@github.com:taras-y/Martlet.git must be directly mentioned as
-an original (primary) source of the "Martlet" carol lyrics.
+In all cases, this notice must remain intact and an URL git@github.com:taras-y/Martlet.git
+( https://github.com/taras-y/Martlet.git )
+must be directly mentioned as an original (primary) source of the "Martlet" carol lyrics.
