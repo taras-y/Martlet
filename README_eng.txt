@@ -18,7 +18,7 @@ Commercial copying, hiring, rent (lease) and lending
 Obtain permission before redistributing.
 An URL https://github.com/taras-y/Martlet.git must be directly mentioned as original
 (primary) source of the "Martlet" carol lyrics.
-In all cases, this notice must remain intact.
+In all cases this notice must remain intact.
 
 2. Contact list (it may be changed and/or extended later).
 Any useful and honest feedback is welcome. But please don't post off-topic comments or messages.
