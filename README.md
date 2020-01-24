@@ -24,6 +24,7 @@ An URL https://github.com/taras-y/Martlet.git must be directly mentioned as orig
 In all cases this notice must remain intact.
 
 2. Contact list (it may be changed and/or extended later).
+
 Any useful and honest feedback is welcome. But please don't post off-topic comments or messages.
 
 2.1 Telegram Channel "Martlet": t.me/martlet_carol_lyrics
@@ -37,6 +38,7 @@ Wilhousky's lyrics are under copyright protection (owned by Carl Fischer Music) 
 (ukr) https://uk.wikipedia.org/wiki/%D0%A9%D0%B5%D0%B4%D1%80%D0%B8%D0%BA_(%D0%BF%D1%82%D0%B0%D1%85)
 
 4. Historical background
+
 Conductor of the Ukrainian Republic Choir Oleksander Koshyts (also spelled Alexander Koshetz)
 commissioned Leontovych to create the song based on traditional Ukrainian folk chants,
 and the resulting new work for choir, "Shchedryk", was based on four notes Leontovych found in an anthology.
