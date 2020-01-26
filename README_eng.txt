@@ -27,8 +27,7 @@ In all cases this notice must remain intact.
 2. Contact list (it may be changed and/or extended later).
 Any useful and honest feedback is welcome. But please don't post off-topic comments or messages.
 
-2.1 Email: 6375313+taras-y@users.noreply.github.com
-2.2 Telegram Channel "Martlet": t.me/martlet_carol_lyrics
+2.1 Telegram Channel "Martlet": t.me/martlet_carol_lyrics
 
 3. Carol of the Bells ( https://en.wikipedia.org/wiki/Carol_of_the_Bells ) is a popular Christmas carol,
 with music by Ukrainian composer Mykola Leontovych in 1914 and lyrics by Peter J. Wilhousky.
