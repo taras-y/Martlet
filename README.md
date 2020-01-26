@@ -1,7 +1,8 @@
 # Martlet
-Martlet carol 
+Martlet carol
 
-1. Martlet.txt file contains a new carol. Short title of this carol is "Martlet".
+1. Martlet.txt file (https://taras-y.github.io/Martlet/Martlet.txt) 
+contains a new carol. Short title of this carol is "Martlet".
 Full title of this carol is "Serinus birds meet Martlets".
 Martlet is intended as a "close interpretation" of the Ukrainian folk chant "Shchedryk"
 with music by Ukrainian composer Mykola Leontovych and in memory of Mykola Leontovych.
@@ -27,7 +28,8 @@ In all cases this notice must remain intact.
 
 Any useful and honest feedback is welcome. But please don't post off-topic comments or messages.
 
-2.1 Telegram Channel "Martlet": t.me/martlet_carol_lyrics
+2.1 Email: 6375313+taras-y@users.noreply.github.com
+2.2 Telegram Channel "Martlet": t.me/martlet_carol_lyrics
 
 3. Carol of the Bells ( https://en.wikipedia.org/wiki/Carol_of_the_Bells ) is a popular Christmas carol,
 with music by Ukrainian composer Mykola Leontovych in 1914 and lyrics by Peter J. Wilhousky.
